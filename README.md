@@ -2,7 +2,7 @@
 <!-- Banner -->
 <div align="center">
   
-![Image alt](https://github.com/Quvgard/Quvgard/raw/main/assets/Quvgard.png ) width=50% height=50%
+![Image alt](https://github.com/Quvgard/Quvgard/raw/main/assets/Quvgard.png )
 
 </div>
 
