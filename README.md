@@ -1,3 +1,7 @@
+
+<!-- Banner -->
+![Image alt](https://github.com/Quvgard/Quvgard/raw/main/assets/Quvgard.png.png)
+
 <!-- About Me -->
 <div align="center">
 
