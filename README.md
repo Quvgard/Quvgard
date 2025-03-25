@@ -6,13 +6,6 @@
 
 </div>
 
-<!-- Banner -->
-<div align="center">
-  
-<img src="https://github.com/Quvgard/Quvgard/raw/main/assets/carbon.png" width=50% height=50%>
-
-</div>
-
 <!-- About Me -->
 <div align="center">
 
