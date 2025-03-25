@@ -1,6 +1,17 @@
 
 <!-- Banner -->
+<div align="center">
+  
 ![Image alt](https://github.com/Quvgard/Quvgard/raw/main/assets/Quvgard.png)
+
+</div>
+
+<!-- Banner -->
+<div align="center">
+  
+![Image alt](https://github.com/Quvgard/Quvgard/raw/main/assets/carbon.png)
+
+</div>
 
 <!-- About Me -->
 <div align="center">
@@ -26,7 +37,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quvgard&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 </div>
-
 
 <!-- Tech Stack -->
 <div align="center">
