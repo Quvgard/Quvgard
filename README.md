@@ -38,14 +38,6 @@
   
 </div>
 
-<!-- Social connections -->
-<div align="center">
-
-## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mengard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spjlesher@mail.ru) 
-
-</div>
-
 <!-- Visit Counter -->
 <div align="center">
   
