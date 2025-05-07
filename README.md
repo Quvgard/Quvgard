@@ -31,6 +31,8 @@
   
 </div>
 
+-----
+
 <!-- Snake Animation -->
 <div align="center">
     
